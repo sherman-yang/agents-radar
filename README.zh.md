@@ -25,6 +25,7 @@
 | Claude Code | [anthropics/claude-code](https://github.com/anthropics/claude-code) |
 | OpenAI Codex | [openai/codex](https://github.com/openai/codex) |
 | Gemini CLI | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) |
+| GitHub Copilot CLI | [github/copilot-cli](https://github.com/github/copilot-cli) |
 | Kimi Code CLI | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) |
 | OpenCode | [anomalyco/opencode](https://github.com/anomalyco/opencode) |
 | Qwen Code | [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) |

@@ -43,6 +43,7 @@ const CLI_REPOS: RepoConfig[] = [
   { id: "claude-code", repo: "anthropics/claude-code", name: "Claude Code" },
   { id: "codex", repo: "openai/codex", name: "OpenAI Codex" },
   { id: "gemini-cli", repo: "google-gemini/gemini-cli", name: "Gemini CLI" },
+  { id: "copilot-cli", repo: "github/copilot-cli", name: "GitHub Copilot CLI" },
   { id: "kimi-cli", repo: "MoonshotAI/kimi-cli", name: "Kimi Code CLI" },
   { id: "opencode", repo: "anomalyco/opencode", name: "OpenCode" },
   { id: "qwen-code", repo: "QwenLM/qwen-code", name: "Qwen Code" },
